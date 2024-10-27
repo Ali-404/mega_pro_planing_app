@@ -1,16 +1,29 @@
-# mega_pro_planing_app
+# Mega Pro Planning App
 
-A new Flutter project.
+Mega Pro Planning App is a planning creator.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/Ali-404/mega_pro_planing_app.git
+    cd mega_pro_planing_app
+    ```
 
-A few resources to get you started if this is your first Flutter project:
+2. **Install Flutter dependencies**:
+    Ensure you have Flutter installed, then run:
+    ```bash
+    flutter pub get
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. **Run the application**:
+    Start the app on an emulator or a physical device:
+    ```bash
+    flutter run
+    ```
+
+
+## Technologies
+
+- **Frontend & Backend**: Built entirely with Flutter
